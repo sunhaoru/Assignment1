@@ -1,4 +1,3 @@
-package cipher;
 
 import java.io.PrintWriter;
 
